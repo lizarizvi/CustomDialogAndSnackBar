@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_custom_dialog" type="id" />
+    <item name="tv_submit" type="id" />
+    <item name="tv_cancel" type="id" />
+    <item name="btn_alert_dialog" type="id" />
+    <item name="image_button" type="id" />
+    <item name="btn_custom_progress_dialog" type="id" />
+</resources>
